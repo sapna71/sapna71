@@ -1,6 +1,33 @@
 # About Me:
 Hi, I’m Sapna Singh, a 3rd-year B.Tech CSE student passionate about backend development, machine learning, NLP, and generative AI. I enjoy building practical, end-to-end projects using Python, FastAPI, Scikit-learn, TensorFlow, and REST APIs, with a focus on clean architecture and scalable solutions. I’ve worked on hackathon projects like VerifAI, DigiRaksha, Jagruk AI, and SENTINEL, where I explored problem-solving through AI-powered systems, backend design, and retrieval-based workflows.<br><br>I am currently strengthening my understanding of system design, GenAI concepts, DSA, DBMS, and API development, while building projects that are both technically solid and useful in real-world scenarios. I’m always open to collaborating on backend, AI/ML, and civic-tech or hackathon-driven projects.<br>I’m looking to collaborate on: backend development, machine learning, NLP, generative AI, and hackathon projects that solve real-world problems.<br><br>A few alternative versions, depending on the tone you want:<br><br>Professional: I’m looking to collaborate on scalable backend systems, ML applications, and GenAI-based projects.<br><br>Student-friendly: I’m looking to collaborate on hackathons, AI/ML projects, and backend development ideas.<br><br>Stronger for GitHub: I’m looking to collaborate on open-source, backend engineering, NLP, and generative AI projects.
 
+## Projects
+
+### SENTINEL — TrueFoundry Hackathon Project
+- Built an AI-assisted workflow to process unstructured inputs and surface relevant signals for faster review.
+- Designed a modular pipeline for ingestion, preprocessing, and structured output generation.
+- Applied GenAI concepts such as prompt structuring, semantic retrieval, and context-aware generation.
+
+### VerifAI — Story-Backstory Consistency Detection
+- Developed a narrative consistency detection pipeline using Sentence Transformers and RoBERTa-based models.
+- Implemented semantic retrieval and Natural Language Inference for claim-level reasoning.
+- Improved detection quality by combining embedding-based matching with transformer-based classification.
+
+### DigiRaksha — Disaster Management Platform
+- Built a FastAPI-based backend for emergency reporting, SOS alerts, and incident handling.
+- Designed secure REST endpoints with authentication for reliable access to critical workflows.
+- Structured the application for real-time request handling and clean backend separation.
+
+### Jagruk AI — Civic Awareness Platform
+- Built an NLP-powered platform to simplify public policy and governance content for general users.
+- Designed contextual content delivery using geographic information and source-backed summarization.
+- Focused on making civic information easier to understand and more accessible.
+
+### Churn Prediction Application
+- Built a customer churn classification model using Scikit-learn and Pandas.
+- Performed feature engineering, preprocessing, and model evaluation.
+- Presented results through a simple visual interface for easier interpretation.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sapna-singh-9a652332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapnasinghh71@gmail.com) 
