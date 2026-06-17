@@ -2,11 +2,6 @@ Hi, I’m Sapna Singh, a 2nd-year B.Tech CSE student passionate about backend de
 
 ## 🛠️ Projects
 
-### SENTINEL — TrueFoundry Hackathon Project
-- Built an AI-assisted workflow to process unstructured inputs and surface relevant signals for faster review.
-- Designed a modular pipeline for ingestion, preprocessing, and structured output generation.
-- Applied GenAI concepts such as prompt structuring, semantic retrieval, and context-aware generation.
-
 ### VerifAI — Story-Backstory Consistency Detection
 - Developed a narrative consistency detection pipeline using Sentence Transformers and RoBERTa-based models.
 - Implemented semantic retrieval and Natural Language Inference for claim-level reasoning.
