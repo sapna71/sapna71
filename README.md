@@ -22,10 +22,10 @@ Hi, I’m Sapna Singh, a 2nd-year B.Tech CSE student passionate about backend de
 - Designed contextual content delivery using geographic information and source-backed summarization.
 - Focused on making civic information easier to understand and more accessible.
 
-### Churn Prediction Application
-- Built a customer churn classification model using Scikit-learn and Pandas.
-- Performed feature engineering, preprocessing, and model evaluation.
-- Presented results through a simple visual interface for easier interpretation.
+### SENTINEL – Self-Healing AI Orchestration Infrastructure Platform 
+- Designed and implemented a resilience-first AI orchestration platform using FastAPI and LangGraph, delivering high availability and full operational transparency across distributed AI workflows. 
+- Built a fault-tolerant, provider-resilient backend with a modular provider abstraction layer and tool execution layer, enabling seamless multi-provider integration and production-grade orchestration patterns. 
+- Engineered an async-first architecture with SQLAlchemy (async ORM), a Postgres-ready SQLite layer, and Pydantic Settings v2, adding event-driven streaming, health monitoring, and circuit breaker management for robust fault recovery. 
 
 
 ## 🌐 Socials:
