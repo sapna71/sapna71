@@ -207,7 +207,7 @@ Prototyped during my internship at the GenAI Center of Excellence, with LLM and 
 
 <img src="https://streak-stats.demolab.com?user=sapna71&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sapna71&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%" />
+<img src="https://ghchart.rshah.org/2C9CDB/sapna71" alt="Contribution calendar" width="95%" />
 
 <img src="https://leetcard.jacoblin.cool/sapnasingh81?theme=dark&font=Karla&ext=heatmap" alt="LeetCode statistics" />
 
