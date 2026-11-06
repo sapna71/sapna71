@@ -19,7 +19,22 @@
 
 ## About
 
-I build Generative AI and backend systems that stay reliable under failure. My work centres on agentic AI workflows, retrieval-augmented generation and asynchronous FastAPI services, with an emphasis on clean architecture, observability and clear documentation.
+### Who I am
+
+I am a third-year Computer Science student with a builder's mindset. I like taking an idea from a rough sketch to a deployed, documented system, and I care most about software that keeps working after the demo. Generative AI is where I do most of my building right now, but I treat it as engineering first: clear architecture, sensible failure handling and honest evaluation.
+
+### How I work
+
+- **I take ownership.** I follow a project from design through deployment and write down how it works, with architecture and workflow diagrams in the repository.
+- **I build for failure.** Sentinel exists because AI agents fail in practice, so I design for recovery, health monitoring and observability.
+- **I learn quickly and welcome feedback.** Each project has pushed me into a new tool, from LangGraph and FAISS to async SQLAlchemy, and I adapt well in fast-paced settings such as hackathons.
+- **I work well with others.** I have collaborated with cross-functional teams during my internship, and I help run events and workshops as a core team member at Google Developer Group on Campus and as a student coordinator at the GenAI Center of Excellence.
+
+### What I am looking for
+
+An internship where I can learn from experienced engineers, own meaningful pieces of a real product and ship features that people use. I am most interested in Generative AI, backend engineering and data engineering roles.
+
+### At a glance
 
 | | |
 |---|---|
@@ -189,9 +204,6 @@ Prototyped during my internship at the GenAI Center of Excellence, with LLM and 
 ## Activity
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sapna71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapna71&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=sapna71&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
