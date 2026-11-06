@@ -1,10 +1,9 @@
+## About
+
+### Who I am
+
+I am a third-year Computer Science student with a builder's mindset. I like taking an idea from a rough sketch to a deployed, documented system, and I care most about software that keeps working after the demo. Generative AI is where I do most of my building right now, but I treat it as engineering first: clear architecture, sensible failure handling and honest evaluation.
 <div align="center">
-
-<a href="https://github.com/sapna71">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1100&color=2C9CDB&center=true&vCenter=true&width=760&lines=Generative+AI+and+Backend+Engineer;Agentic+AI+workflows+%7C+RAG+applications+%7C+FastAPI+services;Third-year+B.Tech+CSE+%7C+Batch+2028;Open+to+internships+in+software+and+AI+engineering" alt="Typing animation" />
-</a>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2zu6.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sapna-singh-9a652332a)
@@ -14,14 +13,6 @@
 [About](#about) &nbsp;|&nbsp; [Projects](#projects) &nbsp;|&nbsp; [Experience](#experience) &nbsp;|&nbsp; [Skills](#skills) &nbsp;|&nbsp; [Activity](#activity) &nbsp;|&nbsp; [Contact](#contact)
 
 </div>
-
----
-
-## About
-
-### Who I am
-
-I am a third-year Computer Science student with a builder's mindset. I like taking an idea from a rough sketch to a deployed, documented system, and I care most about software that keeps working after the demo. Generative AI is where I do most of my building right now, but I treat it as engineering first: clear architecture, sensible failure handling and honest evaluation.
 
 ### How I work
 
