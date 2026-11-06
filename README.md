@@ -1,6 +1,3 @@
-Sapna Singh
-
-### Who I am
 
 I am a third-year Computer Science student with a builder's mindset. I like taking an idea from a rough sketch to a deployed, documented system, and I care most about software that keeps working after the demo. Generative AI is where I do most of my building right now, but I treat it as engineering first: clear architecture, sensible failure handling and honest evaluation.
 <div align="center">
