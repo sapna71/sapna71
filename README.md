@@ -1,6 +1,4 @@
-<div align="center">
-### Sapna Singh
-</div>
+Sapna Singh
 
 ### Who I am
 
